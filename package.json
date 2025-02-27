@@ -2,7 +2,7 @@
   "name": "learning-to-read-app",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://proteusvacuum.github.io/phonemes/",
+  "homepage": "https://faridrener.com/phonemes/",
   "type": "module",
   "scripts": {
     "dev": "vite",

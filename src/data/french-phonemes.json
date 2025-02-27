@@ -1,0 +1,685 @@
+{
+  "phonemes": [
+    {
+      "symbol": "a",
+      "combinations": [
+        { "sound": "ba", "example": "bateau" },
+        { "sound": "da", "example": "dame" },
+        { "sound": "fa", "example": "face" },
+        { "sound": "ma", "example": "main" },
+        { "sound": "pa", "example": "papa" },
+        { "sound": "ta", "example": "table" }
+      ],
+      "examples": [
+        { "word": "ami", "sound": "a-mi", "sentence": "Mon ami joue avec moi." },
+        { "word": "avion", "sound": "a-vjɔ̃", "sentence": "L'avion vole dans le ciel bleu." },
+        { "word": "arbre", "sound": "aʁbʁ", "sentence": "L'oiseau fait son nid dans l'arbre." }
+      ]
+    },
+    {
+      "symbol": "e",
+      "combinations": [
+        { "sound": "be", "example": "besoin" },
+        { "sound": "de", "example": "demain" },
+        { "sound": "fe", "example": "fenêtre" },
+        { "sound": "me", "example": "menu" },
+        { "sound": "pe", "example": "petit" },
+        { "sound": "te", "example": "tenir" }
+      ],
+      "examples": [
+        { "word": "menu", "sound": "mə-ny", "sentence": "Je regarde le menu." },
+        { "word": "petit", "sound": "pə-ti", "sentence": "Le petit chat dort." },
+        { "word": "demain", "sound": "də-mɛ̃", "sentence": "À demain!" }
+      ]
+    },
+    {
+      "symbol": "i",
+      "combinations": [
+        { "sound": "bi", "example": "bille" },
+        { "sound": "di", "example": "dire" },
+        { "sound": "fi", "example": "fille" },
+        { "sound": "mi", "example": "midi" },
+        { "sound": "pi", "example": "pied" },
+        { "sound": "ti", "example": "tigre" }
+      ],
+      "examples": [
+        { "word": "île", "sound": "il", "sentence": "Il y a un trésor sur l'île." },
+        { "word": "ici", "sound": "i-si", "sentence": "Viens ici, s'il te plaît." },
+        { "word": "image", "sound": "i-maʒ", "sentence": "J'aime cette belle image." }
+      ]
+    },
+    {
+      "symbol": "o",
+      "combinations": [
+        { "sound": "bo", "example": "bon" },
+        { "sound": "do", "example": "dos" },
+        { "sound": "fo", "example": "fort" },
+        { "sound": "mo", "example": "mot" },
+        { "sound": "po", "example": "pot" },
+        { "sound": "to", "example": "tôt" }
+      ],
+      "examples": [
+        { "word": "orange", "sound": "o-ʁɑ̃ʒ", "sentence": "Je mange une orange juteuse." },
+        { "word": "oiseau", "sound": "wa-zo", "sentence": "L'oiseau chante dans le jardin." },
+        { "word": "os", "sound": "os", "sentence": "Le chien aime son os." }
+      ]
+    },
+    {
+      "symbol": "u",
+      "combinations": [
+        { "sound": "bu", "example": "bus" },
+        { "sound": "du", "example": "dur" },
+        { "sound": "fu", "example": "futur" },
+        { "sound": "mu", "example": "mur" },
+        { "sound": "pu", "example": "puce" },
+        { "sound": "tu", "example": "tube" }
+      ],
+      "examples": [
+        { "word": "une", "sound": "yn", "sentence": "J'ai une belle poupée." },
+        { "word": "lune", "sound": "lyn", "sentence": "La lune brille dans la nuit." },
+        { "word": "plume", "sound": "plym", "sentence": "L'oiseau perd sa plume." }
+      ]
+    },
+    {
+      "symbol": "é",
+      "combinations": [
+        { "sound": "bé", "example": "bébé" },
+        { "sound": "dé", "example": "déjà" },
+        { "sound": "lé", "example": "léger" },
+        { "sound": "mé", "example": "méchant" },
+        { "sound": "pé", "example": "pépé" },
+        { "sound": "té", "example": "téléphone" }
+      ],
+      "examples": [
+        { "word": "école", "sound": "e-kɔl", "sentence": "J'aime aller à l'école." },
+        { "word": "éléphant", "sound": "e-le-fɑ̃", "sentence": "L'éléphant est très grand." },
+        { "word": "étoile", "sound": "e-twal", "sentence": "Je vois une étoile." },
+        { "word": "épée", "sound": "e-pe", "sentence": "Le chevalier a une épée." }
+      ]
+    },
+    {
+      "symbol": "è",
+      "combinations": [
+        { "sound": "bè", "example": "très" },
+        { "sound": "lè", "example": "lèvre" },
+        { "sound": "mè", "example": "mère" },
+        { "sound": "pè", "example": "père" },
+        { "sound": "vè", "example": "sévère" }
+      ],
+      "examples": [
+        { "word": "père", "sound": "pɛʁ", "sentence": "Mon père fait du vélo." },
+        { "word": "frère", "sound": "fʁɛʁ", "sentence": "Mon petit frère joue au ballon." },
+        { "word": "mère", "sound": "mɛʁ", "sentence": "Ma mère fait un gâteau." },
+        { "word": "règle", "sound": "ʁɛgl", "sentence": "Je dessine avec une règle." }
+      ]
+    },
+    {
+      "symbol": "ê",
+      "combinations": [
+        { "sound": "fê", "example": "fête" },
+        { "sound": "pê", "example": "pêche" },
+        { "sound": "tê", "example": "tête" },
+        { "sound": "vê", "example": "vêtement" },
+        { "sound": "rê", "example": "rêve" }
+      ],
+      "examples": [
+        { "word": "fête", "sound": "fɛt", "sentence": "C'est la fête aujourd'hui!" },
+        { "word": "rêve", "sound": "ʁɛv", "sentence": "Je fais un beau rêve." },
+        { "word": "forêt", "sound": "fo-ʁɛ", "sentence": "La forêt est verte." },
+        { "word": "fenêtre", "sound": "fə-nɛtʁ", "sentence": "Ouvre la fenêtre." }
+      ]
+    },
+    {
+      "symbol": "ai",
+      "combinations": [
+        { "sound": "mai", "example": "maison" },
+        { "sound": "pai", "example": "pain" },
+        { "sound": "rai", "example": "raisin" },
+        { "sound": "sai", "example": "saison" },
+        { "sound": "tai", "example": "taille" }
+      ],
+      "examples": [
+        { "word": "maison", "sound": "mɛ-zɔ̃", "sentence": "Ma maison est grande." },
+        { "word": "lait", "sound": "lɛ", "sentence": "Je bois du lait frais." },
+        { "word": "faire", "sound": "fɛʁ", "sentence": "J'aime faire du vélo." }
+      ]
+    },
+    {
+      "symbol": "au",
+      "combinations": [
+        { "sound": "cau", "example": "cause" },
+        { "sound": "fau", "example": "faute" },
+        { "sound": "pau", "example": "pauvre" },
+        { "sound": "rau", "example": "rayon" },
+        { "sound": "sau", "example": "sauter" }
+      ],
+      "examples": [
+        { "word": "auto", "sound": "o-to", "sentence": "L'auto rouge est rapide." },
+        { "word": "pauvre", "sound": "povʁ", "sentence": "Le pauvre chat a faim." },
+        { "word": "sauter", "sound": "so-te", "sentence": "J'aime sauter à la corde." },
+        { "word": "mauve", "sound": "mov", "sentence": "La fleur est mauve." }
+      ]
+    },
+    {
+      "symbol": "eau",
+      "combinations": [
+        { "sound": "beau", "example": "beau" },
+        { "sound": "ceau", "example": "pinceau" },
+        { "sound": "deau", "example": "rideau" },
+        { "sound": "seau", "example": "seau" },
+        { "sound": "teau", "example": "château" }
+      ],
+      "examples": [
+        { "word": "eau", "sound": "o", "sentence": "Je bois de l'eau fraîche." },
+        { "word": "château", "sound": "ʃa-to", "sentence": "Le château est grand." },
+        { "word": "pinceau", "sound": "pɛ̃-so", "sentence": "Je peins avec un pinceau." },
+        { "word": "oiseau", "sound": "wa-zo", "sentence": "L'oiseau vole dans le ciel." }
+      ]
+    },
+    {
+      "symbol": "ou",
+      "combinations": [
+        { "sound": "bou", "example": "bouche" },
+        { "sound": "dou", "example": "doux" },
+        { "sound": "fou", "example": "four" },
+        { "sound": "pou", "example": "poule" },
+        { "sound": "tou", "example": "tour" }
+      ],
+      "examples": [
+        { "word": "loup", "sound": "lu", "sentence": "Le loup court dans la forêt." },
+        { "word": "roue", "sound": "ʁu", "sentence": "La roue du vélo tourne." },
+        { "word": "poupée", "sound": "pu-pe", "sentence": "La poupée a une robe rose." },
+        { "word": "mouton", "sound": "mu-tɔ̃", "sentence": "Le mouton a de la laine douce." }
+      ]
+    },
+    {
+      "symbol": "oi",
+      "combinations": [
+        { "sound": "boi", "example": "boire" },
+        { "sound": "foi", "example": "fois" },
+        { "sound": "moi", "example": "mois" },
+        { "sound": "poi", "example": "poire" },
+        { "sound": "voi", "example": "voir" }
+      ],
+      "examples": [
+        { "word": "roi", "sound": "ʁwa", "sentence": "Le roi vit dans un château." },
+        { "word": "voiture", "sound": "vwa-tyʁ", "sentence": "La voiture est bleue." },
+        { "word": "noir", "sound": "nwaʁ", "sentence": "Le chat noir dort." },
+        { "word": "étoile", "sound": "e-twal", "sentence": "L'étoile brille dans le ciel." }
+      ]
+    },
+    {
+      "symbol": "on",
+      "combinations": [
+        { "sound": "bon", "example": "bon" },
+        { "sound": "con", "example": "content" },
+        { "sound": "mon", "example": "monde" },
+        { "sound": "pon", "example": "pont" },
+        { "sound": "ton", "example": "tombe" }
+      ],
+      "examples": [
+        { "word": "bonbon", "sound": "bɔ̃-bɔ̃", "sentence": "J'aime les bonbons sucrés." },
+        { "word": "ballon", "sound": "ba-lɔ̃", "sentence": "Le ballon vole dans l'air." },
+        { "word": "pont", "sound": "pɔ̃", "sentence": "Nous traversons le pont." },
+        { "word": "monde", "sound": "mɔ̃d", "sentence": "Le monde est grand." }
+      ]
+    },
+    {
+      "symbol": "an/am",
+      "combinations": [
+        { "sound": "ban", "example": "banc" },
+        { "sound": "dan", "example": "danse" },
+        { "sound": "man", "example": "manger" },
+        { "sound": "pan", "example": "panda" },
+        { "sound": "san", "example": "sans" }
+      ],
+      "examples": [
+        { "word": "enfant", "sound": "ɑ̃-fɑ̃", "sentence": "L'enfant joue au parc." },
+        { "word": "lampe", "sound": "lɑ̃p", "sentence": "La lampe éclaire la chambre." },
+        { "word": "blanc", "sound": "blɑ̃", "sentence": "Le lapin est blanc." },
+        { "word": "chambre", "sound": "ʃɑ̃bʁ", "sentence": "Ma chambre est rangée." }
+      ]
+    },
+    {
+      "symbol": "in/im",
+      "combinations": [
+        { "sound": "bin", "example": "bingo" },
+        { "sound": "din", "example": "dindon" },
+        { "sound": "fin", "example": "fin" },
+        { "sound": "pin", "example": "pin" },
+        { "sound": "vin", "example": "vin" }
+      ],
+      "examples": [
+        { "word": "lapin", "sound": "la-pɛ̃", "sentence": "Le lapin mange une carotte." },
+        { "word": "timbre", "sound": "tɛ̃bʁ", "sentence": "Je colle un timbre sur la lettre." },
+        { "word": "jardin", "sound": "ʒaʁ-dɛ̃", "sentence": "Les fleurs poussent dans le jardin." },
+        { "word": "important", "sound": "ɛ̃-pɔʁ-tɑ̃", "sentence": "C'est très important." }
+      ]
+    },
+    {
+      "symbol": "ch",
+      "examples": [
+        { "word": "chat", "sound": "ʃa", "sentence": "Le chat dort sur le lit." },
+        { "word": "chien", "sound": "ʃjɛ̃", "sentence": "Le chien joue avec la balle." },
+        { "word": "chocolat", "sound": "ʃo-ko-la", "sentence": "J'aime le chocolat." }
+      ]
+    },
+    {
+      "symbol": "gn",
+      "examples": [
+        { "word": "montagne", "sound": "mɔ̃-taɲ", "sentence": "La montagne est haute." },
+        { "word": "agneau", "sound": "a-ɲo", "sentence": "L'agneau est petit." },
+        { "word": "peigne", "sound": "pɛɲ", "sentence": "Je me peigne les cheveux." }
+      ]
+    },
+    {
+      "symbol": "ph",
+      "examples": [
+        { "word": "éléphant", "sound": "e-le-fɑ̃", "sentence": "L'éléphant mange des cacahuètes." },
+        { "word": "photo", "sound": "fo-to", "sentence": "Je prends une photo du chat." },
+        { "word": "dauphin", "sound": "do-fɛ̃", "sentence": "Le dauphin nage dans l'océan." }
+      ]
+    },
+    {
+      "symbol": "qu",
+      "examples": [
+        { "word": "qui", "sound": "ki", "sentence": "Qui veut jouer avec moi?" },
+        { "word": "quand", "sound": "kɑ̃", "sentence": "Quand partons-nous en vacances?" },
+        { "word": "quatre", "sound": "katʁ", "sentence": "J'ai quatre ans." }
+      ]
+    },
+    {
+      "symbol": "eu",
+      "examples": [
+        { "word": "feu", "sound": "fø", "sentence": "Le feu est chaud." },
+        { "word": "jeu", "sound": "ʒø", "sentence": "Ce jeu est amusant!" },
+        { "word": "bleu", "sound": "blø", "sentence": "Le ciel est bleu." }
+      ]
+    },
+    {
+      "symbol": "ein/ain",
+      "combinations": [
+        { "sound": "ain", "example": "main" },
+        { "sound": "ein", "example": "plein" },
+        { "sound": "tein", "example": "teint" },
+        { "sound": "vain", "example": "vain" },
+        { "sound": "zain", "example": "sain" }
+      ],
+      "examples": [
+        { "word": "pain", "sound": "pɛ̃", "sentence": "Le pain est frais." },
+        { "word": "peinture", "sound": "pɛ̃-tyʁ", "sentence": "Je fais de la peinture." },
+        { "word": "main", "sound": "mɛ̃", "sentence": "Je te donne la main." },
+        { "word": "plein", "sound": "plɛ̃", "sentence": "Le verre est plein d'eau." }
+      ]
+    },
+    {
+      "symbol": "ien",
+      "combinations": [
+        { "sound": "bien", "example": "bien" },
+        { "sound": "cien", "example": "ancien" },
+        { "sound": "lien", "example": "lien" },
+        { "sound": "rien", "example": "rien" },
+        { "sound": "tien", "example": "tien" }
+      ],
+      "examples": [
+        { "word": "chien", "sound": "ʃjɛ̃", "sentence": "Le chien joue avec la balle." },
+        { "word": "bien", "sound": "bjɛ̃", "sentence": "Tu as très bien fait!" },
+        { "word": "musicien", "sound": "my-zi-sjɛ̃", "sentence": "Le musicien joue du piano." },
+        { "word": "ancien", "sound": "ɑ̃-sjɛ̃", "sentence": "C'est un ancien livre." }
+      ]
+    },
+    {
+      "symbol": "ill",
+      "combinations": [
+        { "sound": "aill", "example": "paille" },
+        { "sound": "eill", "example": "abeille" },
+        { "sound": "euill", "example": "feuille" },
+        { "sound": "ouill", "example": "grenouille" },
+        { "sound": "uill", "example": "cuillère" }
+      ],
+      "examples": [
+        { "word": "papillon", "sound": "pa-pi-jɔ̃", "sentence": "Le papillon vole dans le jardin." },
+        { "word": "fille", "sound": "fij", "sentence": "La petite fille danse." },
+        { "word": "famille", "sound": "fa-mij", "sentence": "Ma famille est grande." },
+        { "word": "abeille", "sound": "a-bɛj", "sentence": "L'abeille fait du miel." }
+      ]
+    },
+    {
+      "symbol": "ui",
+      "combinations": [
+        { "sound": "bui", "example": "bruit" },
+        { "sound": "cui", "example": "cuisine" },
+        { "sound": "lui", "example": "lui" },
+        { "sound": "nui", "example": "nuit" },
+        { "sound": "sui", "example": "suite" }
+      ],
+      "examples": [
+        { "word": "nuit", "sound": "nɥi", "sentence": "La nuit, je dors bien." },
+        { "word": "pluie", "sound": "plɥi", "sentence": "Il y a de la pluie aujourd'hui." },
+        { "word": "fruit", "sound": "fʁɥi", "sentence": "Je mange un fruit." },
+        { "word": "cuisine", "sound": "kɥi-zin", "sentence": "Je cuisine avec maman." }
+      ]
+    },
+    {
+      "symbol": "fl",
+      "examples": [
+        { "word": "fleur", "sound": "flœʁ", "sentence": "La fleur sent bon." },
+        { "word": "flamme", "sound": "flam", "sentence": "La flamme danse." },
+        { "word": "flûte", "sound": "flyt", "sentence": "Je joue de la flûte." }
+      ]
+    },
+    {
+      "symbol": "bl",
+      "examples": [
+        { "word": "bleu", "sound": "blø", "sentence": "Mon t-shirt est bleu." },
+        { "word": "blanc", "sound": "blɑ̃", "sentence": "Le nuage est blanc." },
+        { "word": "table", "sound": "tabl", "sentence": "Le livre est sur la table." }
+      ]
+    },
+    {
+      "symbol": "cl",
+      "examples": [
+        { "word": "clé", "sound": "kle", "sentence": "J'ai perdu ma clé." },
+        { "word": "classe", "sound": "klas", "sentence": "La classe est silencieuse." },
+        { "word": "clair", "sound": "klɛʁ", "sentence": "Le ciel est clair." }
+      ]
+    },
+    {
+      "symbol": "pl",
+      "examples": [
+        { "word": "plage", "sound": "plaʒ", "sentence": "J'aime jouer sur la plage." },
+        { "word": "pluie", "sound": "plɥi", "sentence": "La pluie tombe doucement." },
+        { "word": "plume", "sound": "plym", "sentence": "J'écris avec une plume." }
+      ]
+    },
+    {
+      "symbol": "cr",
+      "examples": [
+        { "word": "crayon", "sound": "kʁɛ-jɔ̃", "sentence": "Je dessine avec mon crayon." },
+        { "word": "crêpe", "sound": "kʁɛp", "sentence": "J'adore les crêpes au chocolat." },
+        { "word": "crie", "sound": "kʁi", "sentence": "Le bébé crie fort." }
+      ]
+    },
+    {
+      "symbol": "tr",
+      "examples": [
+        { "word": "train", "sound": "tʁɛ̃", "sentence": "Le train va vite." },
+        { "word": "trois", "sound": "tʁwa", "sentence": "J'ai trois chats." },
+        { "word": "triste", "sound": "tʁist", "sentence": "Ne sois pas triste!" }
+      ]
+    },
+    {
+      "symbol": "br",
+      "examples": [
+        { "word": "bras", "sound": "bʁa", "sentence": "Je lève les bras." },
+        { "word": "brosse", "sound": "bʁɔs", "sentence": "Je brosse mes dents." },
+        { "word": "arbre", "sound": "aʁbʁ", "sentence": "L'arbre est grand." }
+      ]
+    },
+    {
+      "symbol": "b",
+      "combinations": [
+        { "sound": "ba", "example": "bateau" },
+        { "sound": "be", "example": "besoin" },
+        { "sound": "bi", "example": "bille" },
+        { "sound": "bo", "example": "bonbon" },
+        { "sound": "bu", "example": "bulle" },
+        { "sound": "bl", "example": "bleu" },
+        { "sound": "br", "example": "bras" }
+      ],
+      "examples": [
+        { "word": "ballon", "sentence": "Le ballon vole dans le ciel." },
+        { "word": "bébé", "sentence": "Le bébé dort dans son lit." },
+        { "word": "bonjour", "sentence": "Je dis bonjour à mes amis." }
+      ]
+    },
+    {
+      "symbol": "c",
+      "combinations": [
+        { "sound": "ca", "example": "cadeau" },
+        { "sound": "co", "example": "coq" },
+        { "sound": "cu", "example": "cube" },
+        { "sound": "cl", "example": "clé" },
+        { "sound": "cr", "example": "crayon" },
+        { "sound": "ce", "example": "cerise" },
+        { "sound": "ci", "example": "citron" }
+      ],
+      "examples": [
+        { "word": "chat", "sentence": "Le chat dort sur le canapé." },
+        { "word": "cinq", "sentence": "J'ai cinq ans." },
+        { "word": "ciel", "sentence": "Le ciel est bleu." }
+      ]
+    },
+    {
+      "symbol": "d",
+      "combinations": [
+        { "sound": "da", "example": "dame" },
+        { "sound": "de", "example": "demain" },
+        { "sound": "di", "example": "dire" },
+        { "sound": "do", "example": "dormir" },
+        { "sound": "du", "example": "dur" },
+        { "sound": "dr", "example": "dragon" }
+      ],
+      "examples": [
+        { "word": "dent", "sentence": "Je brosse mes dents." },
+        { "word": "deux", "sentence": "J'ai deux frères." },
+        { "word": "dire", "sentence": "Je veux te dire un secret." }
+      ]
+    },
+    {
+      "symbol": "f",
+      "combinations": [
+        { "sound": "fa", "example": "face" },
+        { "sound": "fe", "example": "fer" },
+        { "sound": "fi", "example": "fil" },
+        { "sound": "fo", "example": "fort" },
+        { "sound": "fu", "example": "fumer" },
+        { "sound": "fl", "example": "fleur" },
+        { "sound": "fr", "example": "frère" }
+      ],
+      "examples": [
+        { "word": "fille", "sentence": "La petite fille joue." },
+        { "word": "fleur", "sentence": "La fleur est rouge." },
+        { "word": "frère", "sentence": "Mon frère est gentil." }
+      ]
+    },
+    {
+      "symbol": "g",
+      "combinations": [
+        { "sound": "ga", "example": "gare" },
+        { "sound": "go", "example": "gomme" },
+        { "sound": "gu", "example": "guide" },
+        { "sound": "ge", "example": "genre" },
+        { "sound": "gi", "example": "girafe" },
+        { "sound": "gr", "example": "grand" },
+        { "sound": "gl", "example": "glace" }
+      ],
+      "examples": [
+        { "word": "gâteau", "sentence": "Le gâteau est délicieux." },
+        { "word": "grand", "sentence": "L'arbre est très grand." },
+        { "word": "glace", "sentence": "J'aime la glace au chocolat." }
+      ]
+    },
+    {
+      "symbol": "l",
+      "combinations": [
+        { "sound": "la", "example": "laver" },
+        { "sound": "le", "example": "lever" },
+        { "sound": "li", "example": "livre" },
+        { "sound": "lo", "example": "loup" },
+        { "sound": "lu", "example": "lune" },
+        { "sound": "bl", "example": "bleu" },
+        { "sound": "cl", "example": "clé" },
+        { "sound": "fl", "example": "fleur" },
+        { "sound": "pl", "example": "plage" }
+      ],
+      "examples": [
+        { "word": "livre", "sentence": "Je lis un livre." },
+        { "word": "lune", "sentence": "La lune brille la nuit." },
+        { "word": "lapin", "sentence": "Le lapin mange une carotte." }
+      ]
+    },
+    {
+      "symbol": "m",
+      "combinations": [
+        { "sound": "ma", "example": "main" },
+        { "sound": "me", "example": "mer" },
+        { "sound": "mi", "example": "midi" },
+        { "sound": "mo", "example": "mot" },
+        { "sound": "mu", "example": "mur" }
+      ],
+      "examples": [
+        { "word": "maison", "sentence": "Ma maison est grande." },
+        { "word": "maman", "sentence": "Maman fait un gâteau." },
+        { "word": "merci", "sentence": "Je dis merci à papa." }
+      ]
+    },
+    {
+      "symbol": "n",
+      "combinations": [
+        { "sound": "na", "example": "nage" },
+        { "sound": "ne", "example": "neuf" },
+        { "sound": "ni", "example": "nid" },
+        { "sound": "no", "example": "noir" },
+        { "sound": "nu", "example": "nuage" }
+      ],
+      "examples": [
+        { "word": "nez", "sentence": "Mon nez est petit." },
+        { "word": "neige", "sentence": "La neige est blanche." },
+        { "word": "nuit", "sentence": "La nuit est étoilée." }
+      ]
+    },
+    {
+      "symbol": "p",
+      "combinations": [
+        { "sound": "pa", "example": "papa" },
+        { "sound": "pe", "example": "petit" },
+        { "sound": "pi", "example": "pied" },
+        { "sound": "po", "example": "pomme" },
+        { "sound": "pu", "example": "puce" },
+        { "sound": "pl", "example": "plage" },
+        { "sound": "pr", "example": "prune" }
+      ],
+      "examples": [
+        { "word": "papa", "sentence": "Papa joue avec moi." },
+        { "word": "pomme", "sentence": "La pomme est rouge." },
+        { "word": "pluie", "sentence": "La pluie tombe doucement." }
+      ]
+    },
+    {
+      "symbol": "r",
+      "combinations": [
+        { "sound": "ra", "example": "rat" },
+        { "sound": "re", "example": "rouge" },
+        { "sound": "ri", "example": "rire" },
+        { "sound": "ro", "example": "rose" },
+        { "sound": "ru", "example": "rue" },
+        { "sound": "br", "example": "bras" },
+        { "sound": "cr", "example": "cri" },
+        { "sound": "dr", "example": "drap" },
+        { "sound": "fr", "example": "frère" },
+        { "sound": "gr", "example": "gris" },
+        { "sound": "pr", "example": "prix" },
+        { "sound": "tr", "example": "train" }
+      ],
+      "examples": [
+        { "word": "rouge", "sentence": "La pomme est rouge." },
+        { "word": "rire", "sentence": "J'aime rire avec mes amis." },
+        { "word": "roi", "sentence": "Le roi vit dans un château." }
+      ]
+    },
+    {
+      "symbol": "s",
+      "combinations": [
+        { "sound": "sa", "example": "sac" },
+        { "sound": "se", "example": "sel" },
+        { "sound": "si", "example": "six" },
+        { "sound": "so", "example": "sol" },
+        { "sound": "su", "example": "sur" },
+        { "sound": "sp", "example": "sport" },
+        { "sound": "st", "example": "star" }
+      ],
+      "examples": [
+        { "word": "soleil", "sentence": "Le soleil brille." },
+        { "word": "sucre", "sentence": "Le gâteau est sucré." },
+        { "word": "sauter", "sentence": "Je saute à la corde." }
+      ]
+    },
+    {
+      "symbol": "t",
+      "combinations": [
+        { "sound": "ta", "example": "table" },
+        { "sound": "te", "example": "tête" },
+        { "sound": "ti", "example": "tigre" },
+        { "sound": "to", "example": "tombe" },
+        { "sound": "tu", "example": "tube" },
+        { "sound": "tr", "example": "train" }
+      ],
+      "examples": [
+        { "word": "table", "sentence": "Le livre est sur la table." },
+        { "word": "train", "sentence": "Le train va vite." },
+        { "word": "tigre", "sentence": "Le tigre est un grand chat." }
+      ]
+    },
+    {
+      "symbol": "v",
+      "combinations": [
+        { "sound": "va", "example": "vache" },
+        { "sound": "ve", "example": "vert" },
+        { "sound": "vi", "example": "vie" },
+        { "sound": "vo", "example": "voir" },
+        { "sound": "vu", "example": "vue" },
+        { "sound": "vr", "example": "vrai" }
+      ],
+      "examples": [
+        { "word": "vache", "sentence": "La vache mange de l'herbe." },
+        { "word": "vert", "sentence": "L'herbe est verte." },
+        { "word": "vélo", "sentence": "Je fais du vélo." }
+      ]
+    },
+    {
+      "symbol": "ch",
+      "combinations": [
+        { "sound": "cha", "example": "chat" },
+        { "sound": "che", "example": "cheval" },
+        { "sound": "chi", "example": "chien" },
+        { "sound": "cho", "example": "chocolat" },
+        { "sound": "chu", "example": "chute" }
+      ],
+      "examples": [
+        { "word": "chat", "sentence": "Le chat dort sur le lit." },
+        { "word": "chien", "sentence": "Le chien joue avec la balle." },
+        { "word": "chocolat", "sentence": "J'aime le chocolat." }
+      ]
+    },
+    {
+      "symbol": "gn",
+      "combinations": [
+        { "sound": "gna", "example": "gagner" },
+        { "sound": "gne", "example": "ligne" },
+        { "sound": "gni", "example": "magnifique" },
+        { "sound": "gno", "example": "agneau" },
+        { "sound": "gnu", "example": "signal" }
+      ],
+      "examples": [
+        { "word": "montagne", "sentence": "La montagne est haute." },
+        { "word": "agneau", "sentence": "L'agneau est petit." },
+        { "word": "peigne", "sentence": "Je me peigne les cheveux." }
+      ]
+    },
+    {
+      "symbol": "qu",
+      "combinations": [
+        { "sound": "qua", "example": "quand" },
+        { "sound": "que", "example": "que" },
+        { "sound": "qui", "example": "qui" },
+        { "sound": "quo", "example": "quoi" }
+      ],
+      "examples": [
+        { "word": "quatre", "sentence": "J'ai quatre ans." },
+        { "word": "qui", "sentence": "Qui veut jouer?" },
+        { "word": "quoi", "sentence": "Quoi de neuf?" }
+      ]
+    }
+  ]
+}

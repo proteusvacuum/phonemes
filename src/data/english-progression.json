@@ -1,0 +1,11 @@
+{
+  "stages": [
+    { "level": 1, "phonemes": ["a", "e", "i", "o", "u"] },
+    { "level": 2, "phonemes": ["b", "c", "d", "f", "g"] },
+    { "level": 3, "phonemes": ["h", "j", "k", "l", "m"] },
+    { "level": 4, "phonemes": ["n", "p", "r", "s", "t"] },
+    { "level": 5, "phonemes": ["v", "w", "x", "y", "z"] },
+    { "level": 6, "phonemes": ["sh", "ch", "th", "wh", "ph"] },
+    { "level": 7, "phonemes": ["ck", "ng", "nk", "aw", "au", "ew", "ue", "all", "alk", "spr", "str", "scr", "squ", "spl"] }
+  ]
+}

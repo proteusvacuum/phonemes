@@ -1,0 +1,736 @@
+{
+  "phonemes": [
+    {
+      "symbol": "a",
+      "combinations": [
+        { "sound": "ba", "example": "ball" },
+        { "sound": "da", "example": "dad" },
+        { "sound": "fa", "example": "fan" },
+        { "sound": "ma", "example": "map" },
+        { "sound": "pa", "example": "pat" },
+        { "sound": "ta", "example": "tap" }
+      ],
+      "examples": [
+        { "word": "apple", "sound": "a-pəl", "sentence": "The red apple is sweet." },
+        { "word": "ant", "sound": "ant", "sentence": "The tiny ant carries food." },
+        { "word": "at", "sound": "at", "sentence": "Meet me at the park." }
+      ]
+    },
+    {
+      "symbol": "e",
+      "combinations": [
+        { "sound": "be", "example": "bed" },
+        { "sound": "de", "example": "den" },
+        { "sound": "fe", "example": "fed" },
+        { "sound": "me", "example": "met" },
+        { "sound": "pe", "example": "pet" },
+        { "sound": "te", "example": "ten" }
+      ],
+      "examples": [
+        { "word": "egg", "sound": "eg", "sentence": "I like my egg scrambled." },
+        { "word": "end", "sound": "end", "sentence": "The story has a happy end." },
+        { "word": "elephant", "sound": "e-lə-fənt", "sentence": "The elephant is very big." }
+      ]
+    },
+    {
+      "symbol": "i",
+      "combinations": [
+        { "sound": "bi", "example": "big" },
+        { "sound": "di", "example": "dig" },
+        { "sound": "fi", "example": "fin" },
+        { "sound": "mi", "example": "mix" },
+        { "sound": "pi", "example": "pin" },
+        { "sound": "ti", "example": "tip" }
+      ],
+      "examples": [
+        { "word": "igloo", "sound": "i-glu", "sentence": "The igloo is made of ice." },
+        { "word": "in", "sound": "in", "sentence": "Put the toys in the box." },
+        { "word": "it", "sound": "it", "sentence": "I can do it myself." }
+      ]
+    },
+    {
+      "symbol": "o",
+      "combinations": [
+        { "sound": "bo", "example": "box" },
+        { "sound": "do", "example": "dot" },
+        { "sound": "fo", "example": "fox" },
+        { "sound": "mo", "example": "mop" },
+        { "sound": "po", "example": "pot" },
+        { "sound": "to", "example": "top" }
+      ],
+      "examples": [
+        { "word": "octopus", "sound": "ok-tə-pus", "sentence": "The octopus has eight arms." },
+        { "word": "on", "sound": "on", "sentence": "The book is on the table." },
+        { "word": "ox", "sound": "oks", "sentence": "The ox pulls the cart." }
+      ]
+    },
+    {
+      "symbol": "u",
+      "combinations": [
+        { "sound": "bu", "example": "bug" },
+        { "sound": "du", "example": "duck" },
+        { "sound": "fu", "example": "fun" },
+        { "sound": "mu", "example": "mug" },
+        { "sound": "pu", "example": "pup" },
+        { "sound": "tu", "example": "tub" }
+      ],
+      "examples": [
+        { "word": "umbrella", "sound": "um-bre-lə", "sentence": "Take an umbrella, it's raining." },
+        { "word": "up", "sound": "up", "sentence": "Look up at the stars." },
+        { "word": "under", "sound": "un-dər", "sentence": "The cat is under the bed." }
+      ]
+    },
+    {
+      "symbol": "b",
+      "combinations": [
+        { "sound": "bl", "example": "blue" },
+        { "sound": "br", "example": "bread" },
+        { "sound": "bi", "example": "big" },
+        { "sound": "ba", "example": "ball" },
+        { "sound": "be", "example": "bed" },
+        { "sound": "bo", "example": "box" }
+      ],
+      "examples": [
+        { "word": "ball", "sound": "bɔl", "sentence": "Throw the ball to me." },
+        { "word": "bat", "sound": "bæt", "sentence": "The bat flies at night." },
+        { "word": "big", "sound": "bɪg", "sentence": "That is a big tree." }
+      ]
+    },
+    {
+      "symbol": "c",
+      "combinations": [
+        { "sound": "cl", "example": "clap" },
+        { "sound": "cr", "example": "crab" },
+        { "sound": "ca", "example": "cat" },
+        { "sound": "co", "example": "cot" },
+        { "sound": "cu", "example": "cup" }
+      ],
+      "examples": [
+        { "word": "cat", "sound": "kæt", "sentence": "The cat likes to play." },
+        { "word": "cup", "sound": "kʌp", "sentence": "Fill the cup with water." },
+        { "word": "car", "sound": "kɑr", "sentence": "The red car is fast." }
+      ]
+    },
+    {
+      "symbol": "d",
+      "combinations": [
+        { "sound": "dr", "example": "drum" },
+        { "sound": "da", "example": "dad" },
+        { "sound": "de", "example": "den" },
+        { "sound": "di", "example": "dig" },
+        { "sound": "do", "example": "dog" }
+      ],
+      "examples": [
+        { "word": "dog", "sound": "dɔg", "sentence": "The dog wags its tail." },
+        { "word": "dad", "sound": "dæd", "sentence": "Dad reads me stories." },
+        { "word": "dig", "sound": "dɪg", "sentence": "Let's dig in the sand." }
+      ]
+    },
+    {
+      "symbol": "f",
+      "combinations": [
+        { "sound": "fl", "example": "fly" },
+        { "sound": "fr", "example": "frog" },
+        { "sound": "fa", "example": "fan" },
+        { "sound": "fi", "example": "fish" },
+        { "sound": "fo", "example": "fox" }
+      ],
+      "examples": [
+        { "word": "fish", "sound": "fɪʃ", "sentence": "The fish swims in water." },
+        { "word": "fun", "sound": "fʌn", "sentence": "Playing games is fun." },
+        { "word": "fox", "sound": "fɑks", "sentence": "The fox has a bushy tail." }
+      ]
+    },
+    {
+      "symbol": "g",
+      "combinations": [
+        { "sound": "gr", "example": "green" },
+        { "sound": "gl", "example": "glad" },
+        { "sound": "ga", "example": "game" },
+        { "sound": "go", "example": "goat" },
+        { "sound": "gu", "example": "gum" }
+      ],
+      "examples": [
+        { "word": "goat", "sound": "goʊt", "sentence": "The goat eats grass." },
+        { "word": "get", "sound": "gɛt", "sentence": "Get your coat, it's cold." },
+        { "word": "go", "sound": "goʊ", "sentence": "Let's go to the park." }
+      ]
+    },
+    {
+      "symbol": "h",
+      "combinations": [
+        { "sound": "ha", "example": "hat" },
+        { "sound": "he", "example": "hen" },
+        { "sound": "hi", "example": "hit" },
+        { "sound": "ho", "example": "hot" },
+        { "sound": "hu", "example": "hug" }
+      ],
+      "examples": [
+        { "word": "hat", "sound": "hæt", "sentence": "Wear your hat in the sun." },
+        { "word": "hen", "sound": "hɛn", "sentence": "The hen lays eggs." },
+        { "word": "hot", "sound": "hɑt", "sentence": "The soup is too hot." }
+      ]
+    },
+    {
+      "symbol": "j",
+      "combinations": [
+        { "sound": "ja", "example": "jam" },
+        { "sound": "je", "example": "jet" },
+        { "sound": "ji", "example": "jig" },
+        { "sound": "jo", "example": "job" },
+        { "sound": "ju", "example": "jump" }
+      ],
+      "examples": [
+        { "word": "jam", "sound": "dʒæm", "sentence": "I like strawberry jam." },
+        { "word": "jet", "sound": "dʒɛt", "sentence": "The jet flies high." },
+        { "word": "jump", "sound": "dʒʌmp", "sentence": "Jump over the puddle." }
+      ]
+    },
+    {
+      "symbol": "k",
+      "combinations": [
+        { "sound": "ki", "example": "kid" },
+        { "sound": "ka", "example": "kite" },
+        { "sound": "ke", "example": "keep" },
+        { "sound": "ko", "example": "koi" },
+        { "sound": "ku", "example": "kook" }
+      ],
+      "examples": [
+        { "word": "kite", "sound": "kaɪt", "sentence": "The kite flies in the wind." },
+        { "word": "kid", "sound": "kɪd", "sentence": "The kid plays in the park." },
+        { "word": "key", "sound": "ki", "sentence": "I lost my house key." }
+      ]
+    },
+    {
+      "symbol": "l",
+      "combinations": [
+        { "sound": "la", "example": "lamp" },
+        { "sound": "le", "example": "leg" },
+        { "sound": "li", "example": "lip" },
+        { "sound": "lo", "example": "log" },
+        { "sound": "lu", "example": "luck" }
+      ],
+      "examples": [
+        { "word": "lion", "sound": "laɪ-ən", "sentence": "The lion has a loud roar." },
+        { "word": "leg", "sound": "lɛg", "sentence": "My leg is sore." },
+        { "word": "lamp", "sound": "læmp", "sentence": "Turn on the lamp." }
+      ]
+    },
+    {
+      "symbol": "m",
+      "combinations": [
+        { "sound": "ma", "example": "map" },
+        { "sound": "me", "example": "met" },
+        { "sound": "mi", "example": "mix" },
+        { "sound": "mo", "example": "mom" },
+        { "sound": "mu", "example": "mug" }
+      ],
+      "examples": [
+        { "word": "mom", "sound": "mɑm", "sentence": "Mom bakes cookies." },
+        { "word": "map", "sound": "mæp", "sentence": "Look at the map." },
+        { "word": "man", "sound": "mæn", "sentence": "The man walks his dog." }
+      ]
+    },
+    {
+      "symbol": "n",
+      "combinations": [
+        { "sound": "na", "example": "nap" },
+        { "sound": "ne", "example": "net" },
+        { "sound": "ni", "example": "nip" },
+        { "sound": "no", "example": "not" },
+        { "sound": "nu", "example": "nut" }
+      ],
+      "examples": [
+        { "word": "net", "sound": "nɛt", "sentence": "Catch fish with a net." },
+        { "word": "nut", "sound": "nʌt", "sentence": "The squirrel eats a nut." },
+        { "word": "nose", "sound": "noʊz", "sentence": "My nose is cold." }
+      ]
+    },
+    {
+      "symbol": "p",
+      "combinations": [
+        { "sound": "pl", "example": "play" },
+        { "sound": "pr", "example": "pray" },
+        { "sound": "pa", "example": "pat" },
+        { "sound": "pe", "example": "pet" },
+        { "sound": "pi", "example": "pig" }
+      ],
+      "examples": [
+        { "word": "pig", "sound": "pɪg", "sentence": "The pig plays in the mud." },
+        { "word": "pen", "sound": "pɛn", "sentence": "Write with a blue pen." },
+        { "word": "pat", "sound": "pæt", "sentence": "Pat the soft cat." }
+      ]
+    },
+    {
+      "symbol": "r",
+      "combinations": [
+        { "sound": "ra", "example": "rat" },
+        { "sound": "re", "example": "red" },
+        { "sound": "ri", "example": "rip" },
+        { "sound": "ro", "example": "rod" },
+        { "sound": "ru", "example": "run" }
+      ],
+      "examples": [
+        { "word": "rat", "sound": "ræt", "sentence": "The rat likes cheese." },
+        { "word": "red", "sound": "rɛd", "sentence": "The rose is red." },
+        { "word": "run", "sound": "rʌn", "sentence": "Run to the finish line." }
+      ]
+    },
+    {
+      "symbol": "s",
+      "combinations": [
+        { "sound": "sl", "example": "slip" },
+        { "sound": "sp", "example": "spot" },
+        { "sound": "st", "example": "stop" },
+        { "sound": "sa", "example": "sad" },
+        { "sound": "si", "example": "sit" }
+      ],
+      "examples": [
+        { "word": "sun", "sound": "sʌn", "sentence": "The sun is bright." },
+        { "word": "sit", "sound": "sɪt", "sentence": "Sit on the chair." },
+        { "word": "see", "sound": "si", "sentence": "I can see the stars." }
+      ]
+    },
+    {
+      "symbol": "t",
+      "combinations": [
+        { "sound": "tr", "example": "tree" },
+        { "sound": "tw", "example": "twin" },
+        { "sound": "ta", "example": "tap" },
+        { "sound": "te", "example": "ten" },
+        { "sound": "to", "example": "top" }
+      ],
+      "examples": [
+        { "word": "top", "sound": "tɑp", "sentence": "Spin the top." },
+        { "word": "ten", "sound": "tɛn", "sentence": "I have ten fingers." },
+        { "word": "tap", "sound": "tæp", "sentence": "Tap on the door." }
+      ]
+    },
+    {
+      "symbol": "v",
+      "combinations": [
+        { "sound": "va", "example": "van" },
+        { "sound": "ve", "example": "vet" },
+        { "sound": "vi", "example": "vim" },
+        { "sound": "vo", "example": "vote" },
+        { "sound": "vu", "example": "view" }
+      ],
+      "examples": [
+        { "word": "van", "sound": "væn", "sentence": "The van is white." },
+        { "word": "vet", "sound": "vɛt", "sentence": "Take your pet to the vet." },
+        { "word": "very", "sound": "vɛ-ri", "sentence": "I am very happy." }
+      ]
+    },
+    {
+      "symbol": "w",
+      "combinations": [
+        { "sound": "wa", "example": "wag" },
+        { "sound": "we", "example": "web" },
+        { "sound": "wi", "example": "win" },
+        { "sound": "wo", "example": "won" },
+        { "sound": "wu", "example": "wool" }
+      ],
+      "examples": [
+        { "word": "web", "sound": "wɛb", "sentence": "The spider spins a web." },
+        { "word": "win", "sound": "wɪn", "sentence": "We will win the game." },
+        { "word": "wet", "sound": "wɛt", "sentence": "The grass is wet." }
+      ]
+    },
+    {
+      "symbol": "x",
+      "combinations": [
+        { "sound": "ox", "example": "box" },
+        { "sound": "ax", "example": "wax" },
+        { "sound": "ex", "example": "hex" },
+        { "sound": "ix", "example": "fix" },
+        { "sound": "ux", "example": "flux" }
+      ],
+      "examples": [
+        { "word": "box", "sound": "bɑks", "sentence": "Put it in the box." },
+        { "word": "fox", "sound": "fɑks", "sentence": "The fox runs fast." },
+        { "word": "six", "sound": "sɪks", "sentence": "I am six years old." }
+      ]
+    },
+    {
+      "symbol": "y",
+      "combinations": [
+        { "sound": "ya", "example": "yard" },
+        { "sound": "ye", "example": "yes" },
+        { "sound": "yo", "example": "yolk" },
+        { "sound": "yu", "example": "yum" },
+        { "sound": "ay", "example": "say" }
+      ],
+      "examples": [
+        { "word": "yes", "sound": "jɛs", "sentence": "Yes, I can help." },
+        { "word": "yak", "sound": "jæk", "sentence": "The yak has long hair." },
+        { "word": "yellow", "sound": "jɛ-loʊ", "sentence": "The sun is yellow." }
+      ]
+    },
+    {
+      "symbol": "z",
+      "combinations": [
+        { "sound": "za", "example": "zap" },
+        { "sound": "ze", "example": "zero" },
+        { "sound": "zi", "example": "zip" },
+        { "sound": "zo", "example": "zoo" },
+        { "sound": "zu", "example": "zoom" }
+      ],
+      "examples": [
+        { "word": "zoo", "sound": "zu", "sentence": "Let's visit the zoo." },
+        { "word": "zip", "sound": "zɪp", "sentence": "Zip up your jacket." },
+        { "word": "zebra", "sound": "zi-brə", "sentence": "The zebra has stripes." }
+      ]
+    },
+    {
+      "symbol": "sh",
+      "combinations": [
+        { "sound": "sh", "example": "ship" },
+        { "sound": "sh", "example": "shop" },
+        { "sound": "sh", "example": "shell" }
+      ],
+      "examples": [
+        { "word": "ship", "sound": "ʃɪp", "sentence": "The ship sails on water." },
+        { "word": "shop", "sound": "ʃɑp", "sentence": "Let's shop for food." },
+        { "word": "shell", "sound": "ʃɛl", "sentence": "Find shells on the beach." }
+      ]
+    },
+    {
+      "symbol": "ch",
+      "combinations": [
+        { "sound": "ch", "example": "chip" },
+        { "sound": "ch", "example": "chat" },
+        { "sound": "ch", "example": "chess" }
+      ],
+      "examples": [
+        { "word": "chip", "sound": "tʃɪp", "sentence": "The chip is crunchy." },
+        { "word": "chat", "sound": "tʃæt", "sentence": "Let's chat with friends." },
+        { "word": "chess", "sound": "tʃɛs", "sentence": "I like to play chess." }
+      ]
+    },
+    {
+      "symbol": "th",
+      "combinations": [
+        { "sound": "th", "example": "this" },
+        { "sound": "th", "example": "that" },
+        { "sound": "th", "example": "thin" }
+      ],
+      "examples": [
+        { "word": "this", "sound": "ðɪs", "sentence": "This is my book." },
+        { "word": "that", "sound": "ðæt", "sentence": "That bird is blue." },
+        { "word": "thin", "sound": "θɪn", "sentence": "The paper is thin." }
+      ]
+    },
+    {
+      "symbol": "wh",
+      "combinations": [
+        { "sound": "wh", "example": "what" },
+        { "sound": "wh", "example": "when" },
+        { "sound": "wh", "example": "why" }
+      ],
+      "examples": [
+        { "word": "what", "sound": "wɑt", "sentence": "What is your name?" },
+        { "word": "when", "sound": "wɛn", "sentence": "When do we eat?" },
+        { "word": "why", "sound": "waɪ", "sentence": "Why is the sky blue?" }
+      ]
+    },
+    {
+      "symbol": "ph",
+      "combinations": [
+        { "sound": "ph", "example": "phone" },
+        { "sound": "ph", "example": "photo" },
+        { "sound": "ph", "example": "phrase" }
+      ],
+      "examples": [
+        { "word": "phone", "sound": "foʊn", "sentence": "Call me on the phone." },
+        { "word": "photo", "sound": "foʊ-toʊ", "sentence": "Take a photo of me." },
+        { "word": "phrase", "sound": "freɪz", "sentence": "Learn a new phrase." }
+      ]
+    },
+    {
+      "symbol": "tch",
+      "combinations": [
+        { "sound": "tch", "example": "catch" },
+        { "sound": "tch", "example": "match" },
+        { "sound": "tch", "example": "patch" }
+      ],
+      "examples": [
+        { "word": "catch", "sound": "kætʃ", "sentence": "Can you catch the ball?" },
+        { "word": "watch", "sound": "wɑtʃ", "sentence": "I watch TV after school." },
+        { "word": "match", "sound": "mætʃ", "sentence": "The socks match perfectly." }
+      ]
+    },
+    {
+      "symbol": "dge",
+      "combinations": [
+        { "sound": "dge", "example": "bridge" },
+        { "sound": "dge", "example": "edge" },
+        { "sound": "dge", "example": "badge" }
+      ],
+      "examples": [
+        { "word": "bridge", "sound": "brɪdʒ", "sentence": "We cross the bridge to get home." },
+        { "word": "edge", "sound": "ɛdʒ", "sentence": "Be careful at the edge!" },
+        { "word": "badge", "sound": "bædʒ", "sentence": "I wear my badge to school." }
+      ]
+    },
+    {
+      "symbol": "ar",
+      "combinations": [
+        { "sound": "ar", "example": "car" },
+        { "sound": "ar", "example": "park" },
+        { "sound": "ar", "example": "star" }
+      ],
+      "examples": [
+        { "word": "car", "sound": "kɑr", "sentence": "The red car goes fast." },
+        { "word": "park", "sound": "pɑrk", "sentence": "Let's play in the park." },
+        { "word": "star", "sound": "stɑr", "sentence": "I see a bright star." }
+      ]
+    },
+    {
+      "symbol": "er/ir/ur",
+      "combinations": [
+        { "sound": "er", "example": "her" },
+        { "sound": "ir", "example": "bird" },
+        { "sound": "ur", "example": "turn" }
+      ],
+      "examples": [
+        { "word": "her", "sound": "hɜr", "sentence": "Give the book to her." },
+        { "word": "bird", "sound": "bɜrd", "sentence": "The bird flies in the sky." },
+        { "word": "turn", "sound": "tɜrn", "sentence": "It's your turn to play." }
+      ]
+    },
+    {
+      "symbol": "or",
+      "combinations": [
+        { "sound": "or", "example": "for" },
+        { "sound": "or", "example": "corn" },
+        { "sound": "or", "example": "fork" }
+      ],
+      "examples": [
+        { "word": "for", "sound": "fɔr", "sentence": "This gift is for you." },
+        { "word": "corn", "sound": "kɔrn", "sentence": "I like to eat corn." },
+        { "word": "fork", "sound": "fɔrk", "sentence": "Use your fork to eat." }
+      ]
+    },
+    {
+      "symbol": "oo",
+      "combinations": [
+        { "sound": "oo", "example": "moon" },
+        { "sound": "oo", "example": "food" },
+        { "sound": "oo", "example": "cool" }
+      ],
+      "examples": [
+        { "word": "moon", "sound": "mun", "sentence": "The moon shines at night." },
+        { "word": "food", "sound": "fud", "sentence": "The food smells good." },
+        { "word": "cool", "sound": "kul", "sentence": "That's a cool trick!" }
+      ]
+    },
+    {
+      "symbol": "ee/ea",
+      "combinations": [
+        { "sound": "ee", "example": "tree" },
+        { "sound": "ea", "example": "beach" },
+        { "sound": "ee", "example": "seed" }
+      ],
+      "examples": [
+        { "word": "tree", "sound": "tri", "sentence": "The tree is very tall." },
+        { "word": "beach", "sound": "bitʃ", "sentence": "We play on the beach." },
+        { "word": "read", "sound": "rid", "sentence": "I like to read books." }
+      ]
+    },
+    {
+      "symbol": "ay/ai",
+      "combinations": [
+        { "sound": "ay", "example": "play" },
+        { "sound": "ai", "example": "rain" },
+        { "sound": "ay", "example": "stay" }
+      ],
+      "examples": [
+        { "word": "play", "sound": "pleɪ", "sentence": "Let's play a game." },
+        { "word": "rain", "sound": "reɪn", "sentence": "The rain falls softly." },
+        { "word": "day", "sound": "deɪ", "sentence": "Have a nice day!" }
+      ]
+    },
+    {
+      "symbol": "ow/ou",
+      "combinations": [
+        { "sound": "ow", "example": "cow" },
+        { "sound": "ou", "example": "house" },
+        { "sound": "ow", "example": "down" }
+      ],
+      "examples": [
+        { "word": "cow", "sound": "kaʊ", "sentence": "The cow gives us milk." },
+        { "word": "house", "sound": "haʊs", "sentence": "This is my house." },
+        { "word": "down", "sound": "daʊn", "sentence": "Put the toy down." }
+      ]
+    },
+    {
+      "symbol": "oy/oi",
+      "combinations": [
+        { "sound": "oy", "example": "toy" },
+        { "sound": "oi", "example": "coin" },
+        { "sound": "oy", "example": "boy" }
+      ],
+      "examples": [
+        { "word": "toy", "sound": "tɔɪ", "sentence": "This is my favorite toy." },
+        { "word": "coin", "sound": "kɔɪn", "sentence": "I found a coin." },
+        { "word": "boy", "sound": "bɔɪ", "sentence": "The boy runs fast." }
+      ]
+    },
+    {
+      "symbol": "kn",
+      "combinations": [
+        { "sound": "kn", "example": "knee" },
+        { "sound": "kn", "example": "knife" },
+        { "sound": "kn", "example": "knot" }
+      ],
+      "examples": [
+        { "word": "knee", "sound": "ni", "sentence": "I hurt my knee." },
+        { "word": "know", "sound": "noʊ", "sentence": "I know the answer!" },
+        { "word": "knot", "sound": "nɑt", "sentence": "Tie a knot in the rope." }
+      ]
+    },
+    {
+      "symbol": "wr",
+      "combinations": [
+        { "sound": "wr", "example": "write" },
+        { "sound": "wr", "example": "wrong" },
+        { "sound": "wr", "example": "wrap" }
+      ],
+      "examples": [
+        { "word": "write", "sound": "raɪt", "sentence": "I write with a pencil." },
+        { "word": "wrong", "sound": "rɔŋ", "sentence": "That answer is wrong." },
+        { "word": "wrap", "sound": "ræp", "sentence": "Let's wrap the present." }
+      ]
+    },
+    {
+      "symbol": "mb",
+      "combinations": [
+        { "sound": "mb", "example": "lamb" },
+        { "sound": "mb", "example": "climb" },
+        { "sound": "mb", "example": "comb" }
+      ],
+      "examples": [
+        { "word": "lamb", "sound": "læm", "sentence": "The lamb is very soft." },
+        { "word": "climb", "sound": "klaɪm", "sentence": "I climb the tree." },
+        { "word": "comb", "sound": "koʊm", "sentence": "I comb my hair." }
+      ]
+    },
+    {
+      "symbol": "igh",
+      "combinations": [
+        { "sound": "igh", "example": "high" },
+        { "sound": "igh", "example": "light" },
+        { "sound": "igh", "example": "night" }
+      ],
+      "examples": [
+        { "word": "high", "sound": "haɪ", "sentence": "The bird flies high." },
+        { "word": "light", "sound": "laɪt", "sentence": "Turn on the light." },
+        { "word": "night", "sound": "naɪt", "sentence": "Stars shine at night." }
+      ]
+    },
+    {
+      "symbol": "ck",
+      "combinations": [
+        { "sound": "ck", "example": "back" },
+        { "sound": "ck", "example": "duck" },
+        { "sound": "ck", "example": "pick" }
+      ],
+      "examples": [
+        { "word": "back", "sound": "bæk", "sentence": "Come back soon!" },
+        { "word": "duck", "sound": "dʌk", "sentence": "The duck swims in the pond." },
+        { "word": "pick", "sound": "pɪk", "sentence": "Pick a flower from the garden." }
+      ]
+    },
+    {
+      "symbol": "ng",
+      "combinations": [
+        { "sound": "ng", "example": "ring" },
+        { "sound": "ng", "example": "sing" },
+        { "sound": "ng", "example": "wing" }
+      ],
+      "examples": [
+        { "word": "ring", "sound": "rɪŋ", "sentence": "The bell will ring soon." },
+        { "word": "sing", "sound": "sɪŋ", "sentence": "Let's sing a happy song." },
+        { "word": "wing", "sound": "wɪŋ", "sentence": "The bird has a broken wing." }
+      ]
+    },
+    {
+      "symbol": "nk",
+      "combinations": [
+        { "sound": "nk", "example": "pink" },
+        { "sound": "nk", "example": "sink" },
+        { "sound": "nk", "example": "think" }
+      ],
+      "examples": [
+        { "word": "pink", "sound": "pɪŋk", "sentence": "The flower is pink." },
+        { "word": "sink", "sound": "sɪŋk", "sentence": "Wash your hands in the sink." },
+        { "word": "think", "sound": "θɪŋk", "sentence": "What do you think?" }
+      ]
+    },
+    {
+      "symbol": "aw/au",
+      "combinations": [
+        { "sound": "aw", "example": "saw" },
+        { "sound": "au", "example": "sauce" },
+        { "sound": "aw", "example": "claw" }
+      ],
+      "examples": [
+        { "word": "saw", "sound": "sɔ", "sentence": "I saw a rainbow today." },
+        { "word": "paw", "sound": "pɔ", "sentence": "The dog hurt its paw." },
+        { "word": "draw", "sound": "drɔ", "sentence": "Let's draw a picture." }
+      ]
+    },
+    {
+      "symbol": "ew/ue",
+      "combinations": [
+        { "sound": "ew", "example": "new" },
+        { "sound": "ue", "example": "blue" },
+        { "sound": "ew", "example": "grew" }
+      ],
+      "examples": [
+        { "word": "new", "sound": "nu", "sentence": "I got a new toy." },
+        { "word": "blue", "sound": "blu", "sentence": "The sky is blue." },
+        { "word": "grew", "sound": "gru", "sentence": "The plant grew tall." }
+      ]
+    },
+    {
+      "symbol": "all/alk",
+      "combinations": [
+        { "sound": "all", "example": "ball" },
+        { "sound": "alk", "example": "walk" },
+        { "sound": "all", "example": "tall" }
+      ],
+      "examples": [
+        { "word": "ball", "sound": "bɔl", "sentence": "Throw the ball to me." },
+        { "word": "walk", "sound": "wɔk", "sentence": "Let's walk to the park." },
+        { "word": "talk", "sound": "tɔk", "sentence": "We can talk later." }
+      ]
+    },
+    {
+      "symbol": "spr/str/scr",
+      "combinations": [
+        { "sound": "spr", "example": "spring" },
+        { "sound": "str", "example": "string" },
+        { "sound": "scr", "example": "scream" }
+      ],
+      "examples": [
+        { "word": "spring", "sound": "sprɪŋ", "sentence": "Flowers bloom in spring." },
+        { "word": "street", "sound": "strit", "sentence": "Cross the street carefully." },
+        { "word": "screen", "sound": "skrin", "sentence": "Look at the screen." }
+      ]
+    },
+    {
+      "symbol": "squ/spl",
+      "combinations": [
+        { "sound": "squ", "example": "square" },
+        { "sound": "spl", "example": "splash" },
+        { "sound": "squ", "example": "squeak" }
+      ],
+      "examples": [
+        { "word": "square", "sound": "skwɛr", "sentence": "Draw a square shape." },
+        { "word": "splash", "sound": "splæʃ", "sentence": "The waves splash on the shore." },
+        { "word": "squeak", "sound": "skwik", "sentence": "I heard a mouse squeak." }
+      ]
+    }
+  ]
+}
